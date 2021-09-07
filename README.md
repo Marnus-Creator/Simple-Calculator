@@ -1,1 +1,1 @@
-# A simple calculator to refresh some simple C# code and syntac
+# A simple calculator can create 2 variables and use the GUI to add, subtract, multiply and devide
